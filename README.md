@@ -1,0 +1,1 @@
+Search information about movies or TV shows using [TheMovieDB API](https://www.themoviedb.org/).
